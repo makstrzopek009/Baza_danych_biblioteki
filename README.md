@@ -23,4 +23,4 @@ Struktura plików
 Instrukcja obsługi
 1. Skompiluj program (np. używając g++ lub Visual Studio).
 2. Po uruchomieniu wybierz opcję z menu głównego wpisując odpowiednią cyfrę.
-3. Przy wczytywaniu/zapisie podawaj nazwę pliku z rozszerzeniem, np. `baza.txt`.
+3. Przy wczytywaniu/zapisie podawaj nazwę pliku z rozszerzeniem, np. `przyklad.txt`.
