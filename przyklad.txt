@@ -1,0 +1,16 @@
+101;The Witcher;Andrzej;Sapkowski;Supernova;1992;0
+102;Solaris;Stanislaw;Lem;Wydawnictwo Literackie;1961;1
+103;Dune;Frank;Herbert;Chilton Books;1965;0
+104;Foundation;Isaac;Asimov;Gnome Press;1951;0
+105;Metro 2033;Dmitry;Glukhovsky;Insignis;2005;1
+106;The Hobbit;J.R.R.;Tolkien;George Allen;1937;0
+107;Inferno;Dan;Brown;Doubleday;2013;0
+108;The Little Prince;Antoine;de Saint-Exupery;Gallimard;1943;1
+109;Harry Potter;J.K.;Rowling;Bloomsbury;1997;0
+110;Clean Code;Robert;Martin;Prentice Hall;2008;0
+111;Lord of the Rings;J.R.R.;Tolkien;George Allen;1954;0
+112;1984;George;Orwell;Secker Warburg;1949;1
+113;Brave New World;Aldous;Huxley;Chatto Windus;1932;0
+114;The Godfather;Mario;Puzo;Putnam;1969;0
+116;Origin;Dan;Brown;Doubleday;2017;1
+123;The Da Vinci Code;Dan;Brown;Doubleday;2003;1
